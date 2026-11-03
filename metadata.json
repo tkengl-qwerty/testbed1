@@ -1,0 +1,6 @@
+{
+  "name": "ForexHub - Yahoo Finance & GitHub Static Portal",
+  "description": "Real-time foreign exchange dashboard pulling Yahoo Finance data for major currency pairs, USD/IDR, and USD/INR with GitHub Pages deployment and repository integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
